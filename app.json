@@ -20,16 +20,6 @@
       "required": true,
       "value": "public"
        },
-     "HKEY": {
-      "description": "Put your Heroku API key Here",
-      "required": true,
-      "value": ""
-    },
-     "HAPP": {
-      "description": "Put the Heroku app name, same as above entered",
-      "required": true,
-      "value": ""
-       },
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
